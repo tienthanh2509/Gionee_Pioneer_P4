@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<favorites>
+    <!-- Far-left screen [0] -->
+
+    <!-- Left screen [1] -->
+    <appwidget
+        packageName="com.android.settings"
+        className="com.android.settings.widget.SettingsAppWidgetProvider"
+        screen="1"
+        x="0"
+        y="3"
+        spanX="4"
+        spanY="1" />
+
+    <!-- Middle screen [2] -->
+    <appwidget
+        packageName="com.android.deskclock"
+        className="com.android.alarmclock.AnalogAppWidgetProvider"
+        screen="2"
+        x="1"
+        y="0"
+        spanX="2"
+        spanY="2" />
+    <favorite
+        packageName="com.android.camera"
+        className="com.android.camera.Camera"
+        screen="2"
+        x="0"
+        y="3" />
+
+    <!-- Right screen [3] -->
+    <favorite
+        packageName="com.android.gallery3d"
+        className="com.android.gallery3d.app.Gallery"
+        screen="3"
+        x="1"
+        y="3" />
+    <favorite
+        packageName="com.android.settings"
+        className="com.android.settings.Settings"
+        screen="3"
+        x="2"
+        y="3" />
+
+    <!-- Far-right screen [4] -->
+
+    <!-- Hotseat (We use the screen as the position of the item in the hotseat) -->
+    <favorite
+        packageName="com.android.contacts"
+        className="com.android.contacts.activities.DialtactsActivity"
+        container="-101"
+        screen="0"
+        x="0"
+        y="0" />
+    <favorite
+        packageName="com.android.contacts"
+        className="com.android.contacts.activities.PeopleActivity"
+        container="-101"
+        screen="1"
+        x="1"
+        y="0" />
+    <favorite
+        packageName="com.android.mms"
+        className="com.android.mms.ui.BootActivity"
+        container="-101"
+        screen="3"
+        x="3"
+        y="0" />
+    <favorite
+        packageName="com.android.chrome"
+        className="com.google.android.apps.chrome.Main"
+        container="-101"
+        screen="4"
+        x="4"
+        y="0" />
+</favorites>

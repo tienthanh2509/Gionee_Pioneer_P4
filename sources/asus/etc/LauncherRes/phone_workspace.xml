@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<favorites>
+
+    <!-- screen [0] -->
+    <appwidget
+        className="com.asus.weathertime.WeatherWidgetProviderPhone"
+        packageName="com.asus.weathertime"
+        screen="1"
+        spanX="4"
+        spanY="1"
+        x="0"
+        y="0" />
+    <appwidget
+        className="com.asus.quicksearchwidget.WidgetProvider"
+        packageName="com.asus.quicksearchwidget"
+        screen="1"
+        spanX="4"
+        spanY="1"
+        x="0"
+        y="1" />
+
+    <favorite
+        className="com.asus.ia.asusapp.MainActivity"
+        packageName="com.asus.ia.asusapp"
+        screen="1"
+        x="0"
+        y="3" />
+
+    <folder
+        screen="1"
+        title="ASUS"
+        x="0"
+        y="4" >
+        <favorite
+            className="com.android.calendar.AllInOneActivity"
+            packageName="com.asus.calendar" />
+        <favorite
+            className="com.asus.task.activity.TaskActivity"
+            packageName="com.asus.task" />
+        <favorite
+            className="com.asus.ephoto.app.EPhotoActivity"
+            packageName="com.asus.ephoto" />
+        <favorite
+            className="com.asus.gallery.app.EPhotoActivity"
+            packageName="com.asus.gallery" />
+        <favorite
+            className="com.android.contacts.activities.PeopleActivity"
+            packageName="com.asus.contacts" />
+        <favorite
+            className="com.asus.powersaver.PowerSaverSettings"
+            packageName="com.asus.powersaver" />
+        <favorite
+            className="com.asus.filemanager.activity.FileManagerActivity"
+            packageName="com.asus.filemanager" />
+        <favorite
+            className="com.asus.supernote.picker.NoteBookPickerActivity"
+            packageName="com.asus.supernote" />
+        <favorite
+            className="com.asus.calculator.Calculator"
+            packageName="com.asus.calculator" />
+        <favorite
+            className="com.asus.deskclock.DeskClock"
+            packageName="com.asus.deskclock" />
+        <favorite
+            className="net.yostore.aws.view.common.SplashActivity"
+            packageName="com.ecareme.asuswebstorage" />
+        <favorite
+            className="com.asus.maxxaudio.audiowizard.MainActivity"
+            packageName="com.asus.maxxaudio.audiowizard" />
+        <favorite
+            className="com.asus.splendid.AsusSplendidActivity"
+            packageName="com.asus.splendid" />
+        <favorite
+            className="com.asus.mydictionary.MyDictionary"
+            packageName="com.asus.mydictionary" />
+    </folder>
+    <favorite
+        className="com.android.email.activity.Welcome"
+        packageName="com.asus.email"
+        screen="1"
+        x="1"
+        y="4" />
+    <favorite
+        className="com.android.vending.AssetBrowserActivity"
+        packageName="com.android.vending"
+        screen="1"
+        x="2"
+        y="4" />
+
+    <folder
+        screen="1"
+        title="Google"
+        x="3"
+        y="4" >
+        <favorite
+            className="com.google.android.apps.chrome.Main"
+            packageName="com.android.chrome" />
+        <favorite
+            className="com.google.android.gm.ConversationListActivityGmail"
+            packageName="com.google.android.gm" />
+        <favorite
+            className="com.google.android.apps.plus.phone.HomeActivity"
+            packageName="com.google.android.apps.plus" />
+        <favorite
+            className="com.google.android.maps.MapsActivity"
+            packageName="com.google.android.apps.maps" />
+        <favorite
+            className="com.android.music.activitymanagement.TopLevelActivity"
+            packageName="com.google.android.music" />
+        <favorite
+            className="com.google.android.youtube.videos.EntryPoint"
+            packageName="com.google.android.videos" />
+        <favorite
+            className="com.google.android.apps.books.app.BooksActivity"
+            packageName="com.google.android.apps.books" />
+        <favorite
+            className="com.google.apps.dots.android.app.activity.CurrentsStartActivity"
+            packageName="com.google.android.apps.magazines" />
+        <favorite
+            className="com.google.android.gms.games.ui.destination.main.MainActivity"
+            packageName="com.google.android.play.games" />
+        <favorite
+            className="com.google.android.apps.docs.app.NewMainProxyActivity"
+            packageName="com.google.android.apps.docs" />
+        <favorite
+            className="com.google.android.youtube.app.honeycomb.Shell$HomeActivity"
+            packageName="com.google.android.youtube" />
+        <favorite
+            className="com.google.android.apps.plus.phone.ConversationListActivity"
+            packageName="com.google.android.apps.plus" />
+        <favorite
+            className="com.google.android.talk.SigningInActivity"
+            packageName="com.google.android.talk" />
+    </folder>
+
+    <!-- screen [1] -->
+    <appwidget
+        className="com.asus.sitd.whatsnext.widget.WhatsNextWidgetProvider"
+        packageName="com.asus.sitd.whatsnext"
+        screen="2"
+        spanX="4"
+        spanY="3"
+        x="0"
+        y="0" />
+
+    <folder
+        screen="2"
+        title="ZenLink"
+        x="0"
+        y="4" >
+        <favorite
+            className="com.asus.linkrim.LinkRimActivity"
+            packageName="com.asus.linkrim" />
+        <favorite
+            className="com.asus.remotelink.library.AsusMainActivity"
+            packageName="com.asus.remotelink.full" />
+        <favorite
+            className="com.asus.sharerim.Main"
+            packageName="com.asus.sharerim" />
+        <favorite
+            className="com.asus.wifip2p.networkgrouping.PartyApp"
+            packageName="com.asus.wifip2p.networkgrouping" />
+    </folder>
+
+    <!-- Hotseat (We use the screen as the position of the item in the hotseat) -->
+    <favorite
+        className="com.android.contacts.activities.DialtactsActivity"
+        container="-103"
+        packageName="com.android.contacts"
+        screen="0"
+        x="0"
+        y="0" />
+    <favorite
+        className="com.android.contacts.activities.PeopleActivity"
+        container="-103"
+        packageName="com.android.contacts"
+        screen="1"
+        x="1"
+        y="0" />
+    <favorite
+        className="com.android.mms.ui.BootActivity"
+        container="-103"
+        packageName="com.android.mms"
+        screen="3"
+        x="3"
+        y="0" />
+    <favorite
+        className="com.google.android.apps.chrome.Main"
+        container="-103"
+        packageName="com.android.chrome"
+        screen="4"
+        x="4"
+        y="0" />
+
+</favorites>
