@@ -1,0 +1,885 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+
+Name: system/app/Ami_DataGhost.apk
+SHA1-Digest: r9Mpf+jA3s+ut7tlByw6/NkW9UI=
+
+Name: patch/system/priv-app/DefaultContainerService.odex.p
+SHA1-Digest: LjDKuyOzmSqvv7+WKPhWafWIiWI=
+
+Name: build.prop
+SHA1-Digest: WLOer/19F06cgp2M4okub0eppFM=
+
+Name: patch/system/framework/android.test.runner.odex.p
+SHA1-Digest: o/U1+J8ZT/zdLUPbtpmn2Vircrw=
+
+Name: patch/system/app/LatinIME.odex.p
+SHA1-Digest: IR+Z15T7r9aarcZqk4mRzibIdoo=
+
+Name: patch/system/lib/libstagefright_soft_aacdec.so.p
+SHA1-Digest: HiKNTktGRTRg7KqH54VNynQ7VxM=
+
+Name: patch/system/framework/bouncycastle.odex.p
+SHA1-Digest: /5iqoIh/Qh+zlW4mt6AyJ30DOjg=
+
+Name: patch/system/framework/conscrypt.odex.p
+SHA1-Digest: QLFm7V+QqO73ZoE/bMISyZZN4+k=
+
+Name: patch/system/framework/settings.odex.p
+SHA1-Digest: xSZTzb6p94G2z6ymgEtjf+6uQvA=
+
+Name: patch/system/framework/bouncycastle.jar.p
+SHA1-Digest: Xs//tbAxkcFj2QNAC3EqaY3Cg9A=
+
+Name: patch/system/lib/libLLVM.so.p
+SHA1-Digest: 6gIlqq1MzicLX/DrKPGbuE4Sqgw=
+
+Name: patch/system/app/SchedulePowerOnOff.odex.p
+SHA1-Digest: /nhnBvrOMzOEunp8+QKZ+wPh5So=
+
+Name: patch/system/priv-app/CarefreeLauncher.apk.p
+SHA1-Digest: Dd5ir04K1kjOmopSMPaTjAILrXM=
+
+Name: patch/system/etc/apns-conf.xml.p
+SHA1-Digest: 9jfauc6n+pUY89Al6X1Y5RW9anE=
+
+Name: system/vendor/lib/libcocklogic.so
+SHA1-Digest: vI2Mz9NWF6CaUYGlkWAG288WsPc=
+
+Name: patch/system/app/HoloSpiralWallpaper.apk.p
+SHA1-Digest: dJPv8Lnhx4dfqnqE/BkVg/nnUGk=
+
+Name: patch/system/app/DocumentsUI.odex.p
+SHA1-Digest: BObDm4wXKxoLn0U8Ws8wUtcu3/Y=
+
+Name: patch/system/app/AutoMMI.odex.p
+SHA1-Digest: J9Vvz/XvLKh9ZjMWEQa7m+4rSpM=
+
+Name: patch/system/framework/voip-common.odex.p
+SHA1-Digest: 4XyvIDTzca0RAJXsZUxpGX/Yn3k=
+
+Name: patch/system/framework/core.odex.p
+SHA1-Digest: f2jR9Kdb/qAzyFOmbx80b22o1pA=
+
+Name: patch/system/app/EngineerModeSim.apk.p
+SHA1-Digest: SpYVu7BXBkt4OMC8Z6ssAlzBs+A=
+
+Name: patch/system/app/Amigo_Calendar.apk.p
+SHA1-Digest: 5Pf4Q+ut8Osl9L3I+qudx4YVsgE=
+
+Name: patch/system/framework/mediatek-common.odex.p
+SHA1-Digest: 7WR54MOuBv/S07L96dytknDlQ0M=
+
+Name: patch/system/priv-app/SharedStorageBackup.odex.p
+SHA1-Digest: jDv1owAHmvhKj+aDCtLUhIabTK0=
+
+Name: patch/system/app/Exchange2.apk.p
+SHA1-Digest: hYptnDxj5ArKmGymdrs2ECI9Prk=
+
+Name: patch/system/framework/com.android.location.provider.jar.p
+SHA1-Digest: +Tk72jlvGcyCekrMD7zwpoo0/T4=
+
+Name: patch/system/lib/libcamdrv.so.p
+SHA1-Digest: 1dduCjfFzfJAIo+R+Q7XXcbZqBQ=
+
+Name: patch/system/app/Galaxy4.odex.p
+SHA1-Digest: 011UET+HUD0qYNT3wEb8I66O7tE=
+
+Name: patch/system/lib/libcam.campipe.so.p
+SHA1-Digest: Ji0TqQdHh2lriR0RMQgrb1zmLgU=
+
+Name: patch/system/framework/gionee-common.odex.p
+SHA1-Digest: 7nUFfBA7dOhag6BXuj3pyuDmOh0=
+
+Name: patch/system/app/EngineerModeSim.odex.p
+SHA1-Digest: RaJBy2YTp1ffs7b5vHJARDRUVhA=
+
+Name: patch/system/lib/libstagefright.so.p
+SHA1-Digest: kAtREFIrpd4X44TIfOa3OPY/Kq0=
+
+Name: patch/system/app/GN_MMITest.odex.p
+SHA1-Digest: 0agYRSBAuf4HmLD0lWrxdAX75lk=
+
+Name: patch/system/lib/libimageio_plat_drv.so.p
+SHA1-Digest: ipPFYkXUtHW2B9WJ4SGazZJSQKg=
+
+Name: patch/system/framework/monkey.odex.p
+SHA1-Digest: 7YcESpcLu5jjhNcxTfeRWStXnR0=
+
+Name: patch/system/priv-app/ProxyHandler.odex.p
+SHA1-Digest: WHS41lZszKEIwGF0HLFm+W8ZFFE=
+
+Name: patch/system/framework/mediatek-telephony-common.odex.p
+SHA1-Digest: aGe7HLcgZAz4iHvsb5izpjwqxdQ=
+
+Name: type.txt
+SHA1-Digest: tlifxqsNyCzxIJnRwtQKuZToQQw=
+
+Name: patch/system/app/LiveWallpapersPicker.apk.p
+SHA1-Digest: 5IQjfd8I96MkWyD/g5Ngh/E6k8k=
+
+Name: scatter.txt
+SHA1-Digest: fY7JIcdG5vhgD6wa3t6LeyhIDlM=
+
+Name: patch/system/app/CellConnService.apk.p
+SHA1-Digest: bOQQChHHM6ghVTenLEekQQ/kT10=
+
+Name: patch/system/framework/ime.jar.p
+SHA1-Digest: HwWuf/V2vt9skiIa2pYbbEr5JkE=
+
+Name: patch/system/app/GN_SalesTrack_GI.apk.p
+SHA1-Digest: Szu9H2ClxH5aZNn7lMCDMTcje10=
+
+Name: system/vendor/lib/libtnet-2.0.17-agoo.so
+SHA1-Digest: X10QODOXWXZW/fwi7VK/jYZwLdw=
+
+Name: system/framework/services.jar
+SHA1-Digest: MUC3wLz1u3r/CyQ+jrgUSa4CAXU=
+
+Name: patch/system/lib/libchromium_net.so.p
+SHA1-Digest: szvcI5hOLHlgZ/BSHvAtiTaUJbU=
+
+Name: patch/system/priv-app/ExternalStorageProvider.odex.p
+SHA1-Digest: dPeSSPdSCwDXDlrfLWSnvVtMLrU=
+
+Name: patch/system/framework/framework.jar.p
+SHA1-Digest: 5GPvzl/VPWSQ6men0NYoWkNanNU=
+
+Name: patch/system/priv-app/TelephonyProvider.apk.p
+SHA1-Digest: 6/FkRrZbGSc1Iq4qM2DJwd6BRp8=
+
+Name: patch/system/framework/telephony-common.odex.p
+SHA1-Digest: xavRSx20Nu0Ip09Ka+PbY9PNCkg=
+
+Name: system/lib/libprt_ci.so
+SHA1-Digest: R0m6CH8tyvWXTpitUEb5XaN/nV4=
+
+Name: patch/system/priv-app/Amigo_SystemManager.apk.p
+SHA1-Digest: ujtkmzcmknnQwdsNgtdsSHptoOo=
+
+Name: patch/system/framework/pm.odex.p
+SHA1-Digest: 8kJLcaooxltEKTG0+upaXVwsUCA=
+
+Name: patch/system/framework/com.android.media.remotedisplay.odex.p
+SHA1-Digest: VA2SfrR+Z1MmaTjeek7RZE2yOLo=
+
+Name: patch/system/bin/bootanimation.p
+SHA1-Digest: uri+ZDg1e7lxBCeJ1VYjFm9JcfE=
+
+Name: patch/system/framework/requestsync.odex.p
+SHA1-Digest: Boe0fGDkZ9lyc2SdBF1YIr/6Jx8=
+
+Name: patch/system/app/Stk1.odex.p
+SHA1-Digest: smETm3Zuc3j5vuih5rgOLRC2dAA=
+
+Name: patch/system/lib/libpac.so.p
+SHA1-Digest: lUEBnqc/VL1JUiKxOKbpwDaz6tU=
+
+Name: recovery/etc/install-recovery.sh
+SHA1-Digest: zMxXHcxa2fbeZU5u3U7MPQwKu44=
+
+Name: patch/system/framework/com.android.future.usb.accessory.jar.p
+SHA1-Digest: CfOHGSGAG/4JbIUvqhsh1x3OH0I=
+
+Name: system/app/Amigo_Music.apk
+SHA1-Digest: NXZ08RmUCyd8XfB8DOTVM6sLkng=
+
+Name: patch/system/app/Provision.apk.p
+SHA1-Digest: 27cme9AhBIsu2WBgGNlGLN1rOaw=
+
+Name: patch/system/framework/bu.odex.p
+SHA1-Digest: 62NaYhE7Qv1GXK0BmQza1uVATXg=
+
+Name: patch/system/lib/libcam.exif.so.p
+SHA1-Digest: vzTQomFCtp7n3rg4yflTy0yJCcQ=
+
+Name: patch/system/app/UserDictionaryProvider.apk.p
+SHA1-Digest: ryCmDwtNyFKrS6WXSiII6qsNpJ8=
+
+Name: patch/system/priv-app/VpnDialogs.odex.p
+SHA1-Digest: eEzLijRaGEtG/sKkYljuTNdsnUo=
+
+Name: patch/system/priv-app/InputDevices.apk.p
+SHA1-Digest: UeydhO88hSa3YPieuu8lv/mPlcY=
+
+Name: patch/system/lib/libwebviewchromium.so.p
+SHA1-Digest: hbHYez3LLPze1qoufuzvy8LdYe4=
+
+Name: patch/system/framework/am.jar.p
+SHA1-Digest: BjJT+7ymMDV6sm5YLVhWzu1MRy0=
+
+Name: system/etc/change/wallpaper/wallpaper_7.png
+SHA1-Digest: M78zb/edzoDB4SV5Wz6KRx8BiJ0=
+
+Name: system/app/Amigo_GameHall.apk
+SHA1-Digest: 9g3WpJQkIzmi94KyQJtlgs5gmgs=
+
+Name: patch/system/lib/libja3m.so.p
+SHA1-Digest: dekaXUNn8KPoF1IzNYh001zmYWU=
+
+Name: patch/system/app/MTKThermalManager.odex.p
+SHA1-Digest: XnKhuuh+23s5Dieyqod/kdqffFk=
+
+Name: patch/system/app/GN_MMITest.apk.p
+SHA1-Digest: vLVWs4s4NPP7Dc1b6lq+swi5q/c=
+
+Name: patch/system/etc/security/otacerts.zip.p
+SHA1-Digest: GcvB5n2p6T1E2qrgEyZx3vCkOIs=
+
+Name: patch/system/framework/framework2.odex.p
+SHA1-Digest: pqbzE3e3pHTn9bqN5Yy42S0Q7uw=
+
+Name: patch/system/lib/libcam.camshot.so.p
+SHA1-Digest: R3mXp5g+Udv2pVd3FblZqPj+NVY=
+
+Name: patch/system/priv-app/SettingsProvider.apk.p
+SHA1-Digest: /ZsF71Nf9XlxFs2HT1DxlyVfkCs=
+
+Name: patch/system/framework/CustomProperties.jar.p
+SHA1-Digest: 4UfoEnpJjo8JEfLNcQPZm7So19k=
+
+Name: patch/system/priv-app/ExternalStorageProvider.apk.p
+SHA1-Digest: QRQ8Y+Cx6XgIUoUgoFl/+XADHSQ=
+
+Name: patch/system/priv-app/ContactsProvider.apk.p
+SHA1-Digest: RLarpvFPD+E5agGFTTbY7gsYZDg=
+
+Name: patch/system/app/AmigoPaper.apk.p
+SHA1-Digest: Ix5HnKggqW9vXYGe5dG1XpnLYk8=
+
+Name: patch/system/app/Amigo_Calculator.apk.p
+SHA1-Digest: N5fLZwUrpnGq5+KQbK8ZJe8BJow=
+
+Name: patch/system/app/DocumentsUI.apk.p
+SHA1-Digest: qjPv2nSxF4jNVFviQHDp7R3tt1w=
+
+Name: patch/system/app/BatteryWarning.apk.p
+SHA1-Digest: Uut9EEaDj6Kjxhh7Aq93+/50GBE=
+
+Name: patch/system/framework/framework2.jar.p
+SHA1-Digest: jSFej1TkjXRB7vw/sTEENS/zERQ=
+
+Name: patch/system/priv-app/TeleService.odex.p
+SHA1-Digest: gmAiAlM0znt6C12Zie1FwQhpuyU=
+
+Name: patch/system/lib/libcam_utils.so.p
+SHA1-Digest: fdImqlTvlN18NoJakYZybADNtmE=
+
+Name: patch/system/priv-app/Amigo_AudioProfile.apk.p
+SHA1-Digest: xr7PH6jdcxxZz4hDK+MovyrMs7U=
+
+Name: patch/system/framework/uiautomator.jar.p
+SHA1-Digest: 0tg7OF5NxF61ObSTeZPMAhle0Kc=
+
+Name: patch/system/framework/mediatek-op.jar.p
+SHA1-Digest: sKSqg0atvfqik992tK2dBD6x7wk=
+
+Name: patch/system/vendor/lib/libwechatsight.so.p
+SHA1-Digest: CFp7x6NH1Iev/F3VahAfLJaHWLY=
+
+Name: patch/system/framework/com.mediatek.effect.odex.p
+SHA1-Digest: tz+FcCbJAsvy64a4UG6WCZ6SUuA=
+
+Name: patch/system/framework/wm.odex.p
+SHA1-Digest: T3DSqSQlukU62SxmfJOHLt3uiLo=
+
+Name: patch/system/lib/liba3m.so.p
+SHA1-Digest: mXfmtAsDiMtnPUeCnMuVXmMWzQQ=
+
+Name: system/priv-app/Mms.apk
+SHA1-Digest: OadFHkK46XdjwTEaHDlRZhIXW7g=
+
+Name: patch/system/framework/telephony-common.jar.p
+SHA1-Digest: jOl+I4coKgRrMiOXyYiK6yNcsPI=
+
+Name: patch/system/app/CertInstaller.apk.p
+SHA1-Digest: uILEaTBCZBw1Lbpz5nbVWUzLFQo=
+
+Name: patch/system/lib/libcameracustom.so.p
+SHA1-Digest: EDOXVIC57EsuFSa23vQEZotl+TE=
+
+Name: patch/system/framework/input.odex.p
+SHA1-Digest: yBn8myB7I/0mmwiPl/Od4s1qH4o=
+
+Name: patch/system/priv-app/MtkVideoLiveWallpaper.apk.p
+SHA1-Digest: f2jKNGisUvlsUZ9oJ3CSxWgWdtc=
+
+Name: patch/system/framework/monkey.jar.p
+SHA1-Digest: UomJvvbk8GghmkeujcE1b9VfpAI=
+
+Name: patch/system/framework/pm.jar.p
+SHA1-Digest: LNI92So4Qg7WTd0y7EuKwSD/mF8=
+
+Name: patch/system/app/InCallUI.apk.p
+SHA1-Digest: Ph9zhonqPTyWwBV5iyhNIxW/rG0=
+
+Name: recovery/recovery-from-boot.p
+SHA1-Digest: o44GcFM9j4ZrAmDdDHXKV198OoI=
+
+Name: patch/system/app/CalendarImporter.odex.p
+SHA1-Digest: 3/MguTt64Nq/FJD9lqPGKHXf0/k=
+
+Name: system/app/VLEngine.apk
+SHA1-Digest: DJ8c5rin0pSe/Vp9nimATTNi3q0=
+
+Name: patch/system/priv-app/Keyguard.odex.p
+SHA1-Digest: qciI+rKImh8ZbHuirgiiLIujCkU=
+
+Name: patch/system/app/Stk1.apk.p
+SHA1-Digest: 2YQG5B6p8RaRlucM4Dt7sccrb8Y=
+
+Name: patch/system/framework/mediatek-res.apk.p
+SHA1-Digest: OTc5cL8cdcdDt7/5PR37wQwr6qg=
+
+Name: patch/system/priv-app/SharedStorageBackup.apk.p
+SHA1-Digest: bDqi5vVqJFyWKS4RnKOt1TwytIM=
+
+Name: patch/system/lib/libcamera_client.so.p
+SHA1-Digest: i+bekzHF+9+RZu/m2uF7jCvh23I=
+
+Name: patch/system/lib/libAGifEncoder.so.p
+SHA1-Digest: fvTusPxddVQPdR0hNUPKqUNocc8=
+
+Name: patch/system/framework/ime.odex.p
+SHA1-Digest: 3Id8VIOPWHsypFmRKR6bqMLa07E=
+
+Name: patch/system/app/ApplicationsProvider.odex.p
+SHA1-Digest: 6dDLznUOUxKNxdJocPZVXcsTxbs=
+
+Name: patch/system/build.prop.p
+SHA1-Digest: yex07AoiumTusTsGT73/TmUdhGY=
+
+Name: patch/system/priv-app/Shell.odex.p
+SHA1-Digest: hudferC9d3Ms8VPwN4r5qzqxPPs=
+
+Name: patch/system/app/FMRadio.odex.p
+SHA1-Digest: Zv8JVaXd4q/exbMt5c2e7TEHYpk=
+
+Name: patch/system/app/YGPS.odex.p
+SHA1-Digest: w32A9p7YErM7aV2/lG4aXL7fHAY=
+
+Name: patch/system/priv-app/SettingsProvider.odex.p
+SHA1-Digest: 47hlLMwzn3SI7Hv0y9WkukBDpwo=
+
+Name: patch/system/framework/apache-xml.odex.p
+SHA1-Digest: cr+GhLIC3aOVg3KCYMFI2gO/Kes=
+
+Name: patch/system/app/KeyChain.odex.p
+SHA1-Digest: PXW9cOtxiyb1G/+oDO1Z4UVl35Q=
+
+Name: META-INF/com/google/android/update-binary
+SHA1-Digest: 8Ssai/kcD27ALIx98gYzzalXB3Q=
+
+Name: patch/system/framework/voip-common.jar.p
+SHA1-Digest: nQppMwl4YD5+Hg5maSBCAu18Al8=
+
+Name: patch/system/framework/requestsync.jar.p
+SHA1-Digest: Sdz5iMM89MXlPRS2Ny/kLHkasYI=
+
+Name: patch/system/framework/mediatek-framework.odex.p
+SHA1-Digest: Z5V+IOQRXrmPcXNZwc677GiRWPc=
+
+Name: patch/system/app/StkSelection.odex.p
+SHA1-Digest: b6stVYc4JfU3BhHSESqqVGqmB9Q=
+
+Name: patch/system/priv-app/Amigo_Bluetooth.apk.p
+SHA1-Digest: 2Rno5BdeRVEawKbX4dJaLP9neLc=
+
+Name: patch/system/priv-app/Amigo_SettingsAdapter.apk.p
+SHA1-Digest: kFI3fW5UVkgvGWRimv4O9gctY58=
+
+Name: patch/system/lib/libstagefright_soft_aacenc.so.p
+SHA1-Digest: 8i4riHijMNisA1myWK8YQEIlfVk=
+
+Name: patch/system/framework/CustomPropInterface.jar.p
+SHA1-Digest: dJpwFNSe2t9Uniorzs3l5Ut5XjY=
+
+Name: patch/system/lib/libcam.camadapter.so.p
+SHA1-Digest: y5A4fhrU+f51UFd7TB4IaC/qcoI=
+
+Name: patch/system/bin/mdnsd.p
+SHA1-Digest: k0jJKM6G15J9A4RYuKyLiNmiemU=
+
+Name: patch/system/priv-app/TeleService.apk.p
+SHA1-Digest: 4aETEmL4Z/1f3Hmob1kcv1SCa1k=
+
+Name: patch/system/framework/webviewchromium.odex.p
+SHA1-Digest: CJ0o00pH0KY6W2uFNtOGzQnuwHY=
+
+Name: system/vendor/operator/app/xender_gionee3.0.0603_20150922.apk
+SHA1-Digest: KspcpxhKQ94TPFPLzss6FkcQLKQ=
+
+Name: patch/system/app/EngineerMode.odex.p
+SHA1-Digest: qz8gQCeuOWyibzRAOEBMBYqNlFA=
+
+Name: patch/system/app/Omacp.odex.p
+SHA1-Digest: yWjqzkFIU9Hy+sB9Y/DTyU6LiWw=
+
+Name: patch/system/app/GN_SalesStatistic.odex.p
+SHA1-Digest: GoFbVhm3CnKjdMvXEuq4zLPTOc8=
+
+Name: patch/system/app/LatinIME.apk.p
+SHA1-Digest: L4ooKPwudtkl+zlKiJfYi/a6lXw=
+
+Name: patch/system/framework/am.odex.p
+SHA1-Digest: Bcd8RbdbLoNaGy0w2InNWhCQuyY=
+
+Name: patch/system/app/DrmProvider.apk.p
+SHA1-Digest: 4Mg2dhFjQ+6V0X7n0oLoq6olDtA=
+
+Name: system/etc/change/wallpaper/wallpaper_5.png
+SHA1-Digest: OdE3wdJgemUvaUshn4ZVvBwBMgQ=
+
+Name: patch/system/priv-app/BackupRestoreConfirmation.odex.p
+SHA1-Digest: la/nWoJrf81gdSxaX0/2RbDnMgI=
+
+Name: patch/system/priv-app/BackupRestoreConfirmation.apk.p
+SHA1-Digest: 02TTlCUPoDjNSGkJQ9UbRcRd0us=
+
+Name: patch/system/priv-app/MtkVideoLiveWallpaper.odex.p
+SHA1-Digest: uTJUSL1gVqwz3mLxjuGObQjxCTo=
+
+Name: META-INF/com/google/android/updater-script
+SHA1-Digest: WSVpHeFqy4P9zKISIceH4ebl7fw=
+
+Name: patch/system/framework/bmgr.odex.p
+SHA1-Digest: Gnn0fpgkFZgjARggR0SFgqB+76k=
+
+Name: patch/system/app/CellConnService.odex.p
+SHA1-Digest: bUWcArDdoMef09gPM9u6aY3XzGE=
+
+Name: patch/system/framework/mediatek-tablet.jar.p
+SHA1-Digest: psIF3Bv6a3QnATrcXX2hYWDg/k0=
+
+Name: patch/system/framework/uiautomator.odex.p
+SHA1-Digest: ElyzYAe2YlYKPs3WWBR5BjwRxbk=
+
+Name: patch/system/framework/core-junit.odex.p
+SHA1-Digest: JkA/XkLSr9TIg5RP+GRart5XtLc=
+
+Name: patch/system/app/HTMLViewer.odex.p
+SHA1-Digest: 6VRlw8d/QJcjk34Oc92LPiNsOL4=
+
+Name: patch/system/app/NoiseField.odex.p
+SHA1-Digest: aa5P+bPgEOBs2I9kjjsT5qHUHV0=
+
+Name: system/app/Amigo_NewGallery.apk
+SHA1-Digest: ACvs8YrjvOcG6YsgBhj3YCE0xtY=
+
+Name: patch/system/framework/mediatek-framework.jar.p
+SHA1-Digest: 5PuvLN/3DUXPcY7c52MPXIS9X60=
+
+Name: patch/system/framework/android.test.runner.jar.p
+SHA1-Digest: jmqw229AJ7V9U5bjg3IIJ/Igf64=
+
+Name: patch/system/framework/settings.jar.p
+SHA1-Digest: kJBq3lbkGKiY61G/OkbuRb+BYjs=
+
+Name: patch/system/app/BasicDreams.odex.p
+SHA1-Digest: Hq20sX1+6kcoS66FlYm+gE4GcrM=
+
+Name: patch/system/priv-app/Amigo_DownloadProviderUi.apk.p
+SHA1-Digest: zw/DOMxyhz89h7uDo85UPHzS2dY=
+
+Name: patch/system/framework/webviewchromium.jar.p
+SHA1-Digest: Mbhbrh9I3cWnsaVBdpnZi1vgg5E=
+
+Name: patch/system/framework/mms-common.odex.p
+SHA1-Digest: pBALmOZpqBYpXOq+CYO8zsovyrw=
+
+Name: patch/system/lib/libcam.paramsmgr.so.p
+SHA1-Digest: 6xArJ5wEa9FXsvk0KW7C737yW18=
+
+Name: patch/system/priv-app/MediaProvider.odex.p
+SHA1-Digest: tI8sv9p/mgiuUO97oiIamOTZa2w=
+
+Name: patch/system/priv-app/AmigoSettingsProvider.apk.p
+SHA1-Digest: IrWjsjb4Im58fvtOC5znVyg5++g=
+
+Name: patch/system/data/misc/ProjectConfig.mk.p
+SHA1-Digest: ImAutecgbMEreoP8oh+ybPoqAZY=
+
+Name: patch/system/app/BasicDreams.apk.p
+SHA1-Digest: VSgPXFfddqKf3+hHX3HLCvU17MI=
+
+Name: patch/system/app/Amigo_DynamicWeather.apk.p
+SHA1-Digest: VR4wznjP0ezWvO+evRdqET/xtho=
+
+Name: system/etc/change/wallpaper/wallpaper_3.png
+SHA1-Digest: 8h3IgGfPMRM1mIk3TLHyoI41LMA=
+
+Name: system/etc/change/wallpaper/wallpaper_2.png
+SHA1-Digest: 0eCBIB29qHb4Kyja6Ff4J+ftQsE=
+
+Name: patch/system/app/Amigo_PackageInstaller.apk.p
+SHA1-Digest: Xa/JiV1OFHVXmD/enCnCJE2mblI=
+
+Name: patch/system/vendor/lib/libwechatmm.so.p
+SHA1-Digest: AXvgvhyOoU1oR/Tw8y/zzH+9Bjw=
+
+Name: patch/system/app/Omacp.apk.p
+SHA1-Digest: uULiZzp2Xvv4diQ75OrWBzy2TAI=
+
+Name: patch/system/app/Email.apk.p
+SHA1-Digest: amhKmb/uu6Rko9rcWzM2YfEEKAA=
+
+Name: patch/system/framework/svc.odex.p
+SHA1-Digest: EX6sSxQshlCzkVOog6rYYkzjr0Q=
+
+Name: patch/system/etc/NOTICE.html.gz.p
+SHA1-Digest: MURS/7YCuJFw6sWlUOlrRxgHoXU=
+
+Name: patch/system/app/Exchange2.odex.p
+SHA1-Digest: 5rMMBubCSwjzf90Dix0MacWiCNo=
+
+Name: patch/system/app/KeyChain.apk.p
+SHA1-Digest: 5S9ZPbE29I7JngeB85iW/jHI0OQ=
+
+Name: patch/system/framework/framework-res.apk.p
+SHA1-Digest: YRqK5+JslmnYM618HHX3LkTwWkU=
+
+Name: patch/system/framework/gnframework-res.apk.p
+SHA1-Digest: T8P/KVMcqOgzfkXW/DPjRpvtHiM=
+
+Name: patch/system/etc/CarefreeLauncher/app_position.xml.p
+SHA1-Digest: 9wXsmPKksVGzWqKfI4Kbi7ooiUw=
+
+Name: patch/system/priv-app/Contacts.apk.p
+SHA1-Digest: ST54njGFy/PTxZVyUZk4QL5Yoog=
+
+Name: patch/system/app/Provision.odex.p
+SHA1-Digest: dfUijXb/4YllcFxzj5VP2UbPwis=
+
+Name: patch/system/app/BatteryWarning.odex.p
+SHA1-Digest: kEauP79WLc39K9oPEHGtnXKiGxE=
+
+Name: patch/system/priv-app/FusedLocation.apk.p
+SHA1-Digest: UkKpFyXY1pEiE/mCfLByB1m2N78=
+
+Name: patch/system/vendor/lib/libwechatcommon.so.p
+SHA1-Digest: xSxxWwInLbNTueaqpaPNZ89coK0=
+
+Name: patch/system/framework/com.android.location.provider.odex.p
+SHA1-Digest: YpokE2/e4XRlKvTOAi88/c7iNK8=
+
+Name: system/etc/change/wallpaper/wallpaper_1.png
+SHA1-Digest: HgPWde1yu+JTv0bfOKOVECkfG9I=
+
+Name: patch/system/priv-app/ContactsProvider.odex.p
+SHA1-Digest: H7sAlflB9OTGZ0/O6aL63oBUj5o=
+
+Name: system/etc/change/wallpaper/wallpaper_4.png
+SHA1-Digest: E6NoRHe/AZC7IH75Zq4iI/kqMLQ=
+
+Name: patch/boot.img.p
+SHA1-Digest: ky0jk4H3UYsc/wZDkLM8TWysxVc=
+
+Name: patch/system/framework/android.policy.odex.p
+SHA1-Digest: sVuBnwk7BxwcQwRJMnYbBBXYnJ0=
+
+Name: patch/system/etc/CarefreeLauncher/default_workspace.xml.p
+SHA1-Digest: E5i4BIGMWR0T9dYp6XASQVGHiuY=
+
+Name: patch/system/app/PhaseBeam.odex.p
+SHA1-Digest: tjx5EgeXbJHiXxXriOgh3WvrqAM=
+
+Name: patch/system/framework/framework.odex.p
+SHA1-Digest: SsK8VYwfQ5Yx/bpleqnm5xYyVcY=
+
+Name: patch/system/app/UserDictionaryProvider.odex.p
+SHA1-Digest: HdOYEO+J0kq43wGq2u169zqGGyk=
+
+Name: system/build.prop
+SHA1-Digest: WLOer/19F06cgp2M4okub0eppFM=
+
+Name: patch/system/priv-app/Shell.apk.p
+SHA1-Digest: UwQreZpHoLdw4gIaDOjAyF9QwEM=
+
+Name: patch/system/app/HoloSpiralWallpaper.odex.p
+SHA1-Digest: Ndr++2nB0I4P2wCJyoU47W+JPos=
+
+Name: patch/system/app/PrintSpooler.odex.p
+SHA1-Digest: itwxU6sQMFzGH8XSTykrpWmRzms=
+
+Name: patch/system/framework/media_cmd.jar.p
+SHA1-Digest: F/8R6fHp51cJkuDcKj2RnXZFWjc=
+
+Name: system/etc/change/wallpaper/wallpaper_6.png
+SHA1-Digest: GMxAH3txckox/m2DbK9LCbZZbGI=
+
+Name: patch/system/app/GN_SalesTrack_GI.odex.p
+SHA1-Digest: HrmVMNwoFtNpezn4QgmyYTiJ05c=
+
+Name: patch/system/framework/bmgr.jar.p
+SHA1-Digest: OTkGeCeX87YVCZT7RKrTefO/Evk=
+
+Name: patch/system/app/Amigo_FlashLight.apk.p
+SHA1-Digest: OfDsEp5JW5jVivPcD+Qrlits4cA=
+
+Name: patch/system/lib/libcam.client.so.p
+SHA1-Digest: zy2xfoZ3004UfOMjA5Sbox8j+n0=
+
+Name: patch/system/framework/com.android.media.remotedisplay.jar.p
+SHA1-Digest: 2fyX5ImoXjZ6pH4NQ4ipnTl8iUg=
+
+Name: patch/system/app/Amigo_Video.apk.p
+SHA1-Digest: 0n8vpL2WKTsuLfLGn6Iz2ZhPkQ4=
+
+Name: META-INF/com/android/otacert
+SHA1-Digest: 4UtNbzarR3tBdtcURet9QSroZio=
+
+Name: META-INF/com/android/metadata
+SHA1-Digest: aakI/hocbE3xnn6KlzBM7hMPu0Y=
+
+Name: patch/system/framework/media_cmd.odex.p
+SHA1-Digest: qofCOwP5r6wxgGw84ojvPzvbJaM=
+
+Name: patch/system/framework/CustomProperties.odex.p
+SHA1-Digest: 4NJwUSsvHvgaCo7pFR3qTOhu8LQ=
+
+Name: patch/system/framework/core.jar.p
+SHA1-Digest: /rMGXre+ghTZp30MB9d+9dijvyM=
+
+Name: patch/system/framework/svc.jar.p
+SHA1-Digest: m+1oOUR+XZD7Iq2UFYa0S5/1a68=
+
+Name: patch/system/lib/libbcc.sha1.so.p
+SHA1-Digest: jeC3W5RZDUESwIvMLzr0xpJMV9U=
+
+Name: patch/system/priv-app/Amigo_DownloadProvider.apk.p
+SHA1-Digest: PkFuTut/tl32ZgkQYqF1E+Funis=
+
+Name: patch/system/framework/mediatek-tablet.odex.p
+SHA1-Digest: ApgIKJGNFqHdkmWxl+1WwIqxNm8=
+
+Name: patch/system/framework/core-junit.jar.p
+SHA1-Digest: bFIc3ZMlNpWJjbeqY9vrTRpudsM=
+
+Name: patch/system/lib/libacdk.so.p
+SHA1-Digest: WbCH7cGZxqSBj+LE9oxfIdW5Ta4=
+
+Name: patch/system/framework/content.odex.p
+SHA1-Digest: EZAe2rwuYSV50FU9+JiF2EtYqAI=
+
+Name: patch/system/framework/okhttp.jar.p
+SHA1-Digest: Uz1RHFcB7JschPQERjGLyXjkqfQ=
+
+Name: patch/system/app/PacProcessor.odex.p
+SHA1-Digest: wSbg1xpQOgl6qNF9i8Ilpc8OUF4=
+
+Name: patch/system/framework/gnframework.jar.p
+SHA1-Digest: UC/zhNQBwyXvSRTpfg7lls5wiSs=
+
+Name: patch/system/framework/ext.jar.p
+SHA1-Digest: JkVhvntmkfLzWOPFc5pzhvP7SNM=
+
+Name: patch/system/priv-app/Amigo_Wifi_Settings.apk.p
+SHA1-Digest: LZcRVNgiixE3p6zB6xiIjq4TZWg=
+
+Name: patch/system/app/GN_WifiDirect.apk.p
+SHA1-Digest: 99WbmRKlo57ldXICXeUcUvlFPcM=
+
+Name: patch/system/app/PacProcessor.apk.p
+SHA1-Digest: GjrNHvPFVTLxwNUSH/anLvYLuE4=
+
+Name: patch/system/app/Bluetooth.odex.p
+SHA1-Digest: 4nsaExJD9g6aK+h5wZcwJnHDCJM=
+
+Name: patch/system/priv-app/DefaultContainerService.apk.p
+SHA1-Digest: ub6N1yVJZefgGg2EP3dGPinnaZw=
+
+Name: SEC_VER.txt
+SHA1-Digest: FQsL4uxUkh3/TQLB++sW24qxmAU=
+
+Name: patch/system/lib/libimageio.so.p
+SHA1-Digest: hcWSamuXlcfWVP9S4LC4CHBcdEo=
+
+Name: patch/system/app/LiveWallpapers.odex.p
+SHA1-Digest: +e2Ojc42ofrmJVIcMcwdBlROgCg=
+
+Name: patch/system/priv-app/CDS_INFO.odex.p
+SHA1-Digest: 9dUBJVeiyWqsLJj4bVamt7Dv/2s=
+
+Name: patch/system/framework/mediatek-telephony-common.jar.p
+SHA1-Digest: zy17sVKq73RYeUzm6PnQghUH4iY=
+
+Name: patch/system/app/Email.odex.p
+SHA1-Digest: HfabyukZS73ipKHnzyFIXfL+hJE=
+
+Name: patch/system/priv-app/InputDevices.odex.p
+SHA1-Digest: 3yMuzRxxZ/7FjWCFb5/vgLLVGsg=
+
+Name: patch/system/framework/com.mediatek.effect.jar.p
+SHA1-Digest: IijlPnFmL7WF8IQcpX2FqT9JqdM=
+
+Name: patch/system/app/Bluetooth.apk.p
+SHA1-Digest: oYeYLiaW/SqdX1k91ki8LRYAjBs=
+
+Name: patch/system/framework/apache-xml.jar.p
+SHA1-Digest: 33JGLjwTLwMPe0KJNPxEtgsUs/A=
+
+Name: patch/system/priv-app/Amigo_SystemUI.apk.p
+SHA1-Digest: kFK8DPtyqE9H9jL702kugeWGUq4=
+
+Name: patch/system/framework/okhttp.odex.p
+SHA1-Digest: MHZWZO+7uztjfvVcVy/LK2E8Nao=
+
+Name: patch/system/priv-app/MediaProvider.apk.p
+SHA1-Digest: bdxbvm9FSS48JisOH/X3dGefbzI=
+
+Name: system/lib/libvlife_png.so
+SHA1-Digest: vgvPWqhZgBcE+AXuuhQk5F8cfdk=
+
+Name: patch/system/app/Amigo_Camera.apk.p
+SHA1-Digest: yuhdLj/8yRoISJhb7SYdjD5nZHo=
+
+Name: patch/system/framework/core-libart.jar.p
+SHA1-Digest: coK1IC5qbKeS4ZrfB5+o9JFqV7k=
+
+Name: patch/system/app/MtkBt.apk.p
+SHA1-Digest: HsVVHFgu7uaDaBjTen7LMaNXqaU=
+
+Name: patch/system/framework/wm.jar.p
+SHA1-Digest: zKctSe/3kumLeEz7FAHyOM/4HFg=
+
+Name: patch/system/app/PicoTts.odex.p
+SHA1-Digest: 4qjbT//9PqcerDRy+fccnYhlSqk=
+
+Name: patch/system/framework/amigoframework.odex.p
+SHA1-Digest: np1Dzgin/mWTp/Fc+OHJsDTklT4=
+
+Name: patch/system/app/DrmProvider.odex.p
+SHA1-Digest: pJvN8Z7Xzz9Dg3fCk7mDyaKmXW0=
+
+Name: patch/system/app/Amigo_SoundRecorder.apk.p
+SHA1-Digest: 7s5eBWH+tCo/NrEEy+KQSTpHZos=
+
+Name: patch/system/priv-app/Keyguard.apk.p
+SHA1-Digest: wxUMhjNZ68D84xJwOZEzc0DmIGU=
+
+Name: patch/system/etc/recovery-resource.dat.p
+SHA1-Digest: 1j1tccN1lrBGdGjIwdp8tVdnelU=
+
+Name: patch/system/app/SchedulePowerOnOff.apk.p
+SHA1-Digest: HlzR8TLGMpNAQTEP6XoxsUtSCgY=
+
+Name: patch/system/app/Amigo_Net_ThemeMgr.apk.p
+SHA1-Digest: s+RSsoUncasRQz5YPX1SQZPuhUc=
+
+Name: system/priv-app/Amigo_Settings.apk
+SHA1-Digest: EDWn0aCdrDNSDvcvAfqG9ksMtXY=
+
+Name: patch/system/framework/content.jar.p
+SHA1-Digest: JnpSm4wxQjqn68V8BPPtW+gaK1I=
+
+Name: patch/system/framework/services.odex.p
+SHA1-Digest: reWcbv2zO2jxMim9oHkY+FyjQQE=
+
+Name: patch/system/framework/conscrypt.jar.p
+SHA1-Digest: hycNHBlcZdVxa1wFa+D/gnmmx0k=
+
+Name: patch/system/framework/javax.obex.jar.p
+SHA1-Digest: oSVu73RYtKnxKi4J/Q3yowOmSEo=
+
+Name: patch/system/framework/mediatek-common.jar.p
+SHA1-Digest: CZxM2PLMb9t6g/ovSblnurEfqfI=
+
+Name: patch/system/lib/libmdnssd.so.p
+SHA1-Digest: vcENcnRQ6HQuN6AJT8GKtfEuR94=
+
+Name: patch/system/lib/libcam.utils.so.p
+SHA1-Digest: nNxmzWdkyegsDlXUdxp9ZbURC8s=
+
+Name: patch/system/framework/com.android.future.usb.accessory.odex.p
+SHA1-Digest: Q/aTGs61ciCsiL1ns5+pVw5uwYc=
+
+Name: patch/system/app/Amigo_DeskClock.apk.p
+SHA1-Digest: JWKbf1NL63BIcgX7H7GPhHV4e50=
+
+Name: patch/system/app/LiveWallpapersPicker.odex.p
+SHA1-Digest: zIuXgAcC4Ki23HXXXSE0GnYgU/Y=
+
+Name: patch/system/app/MtkBt.odex.p
+SHA1-Digest: 5FPBTwcwoSV0RLMhMR3baqN7ROk=
+
+Name: patch/system/framework/gnframework.odex.p
+SHA1-Digest: gVsAw8KbXMnUupg2SNIQryAGSPU=
+
+Name: patch/system/app/Amigo_FileManager.apk.p
+SHA1-Digest: /O0XqV9qHK0OIr4oKvOEr0mBkVw=
+
+Name: patch/system/app/GN_SalesStatistic.apk.p
+SHA1-Digest: C5bLM+ZpfKtChwFdokyJCgrg1u0=
+
+Name: patch/system/priv-app/FusedLocation.odex.p
+SHA1-Digest: WFRhFWJkjNE8u81lAMMyYLCLwNI=
+
+Name: patch/system/framework/mms-common.jar.p
+SHA1-Digest: 7ndFbZDjmUxSej+v3yJ4VGt/dcI=
+
+Name: patch/system/lib/libwebrtc_audio_preprocessing.so.p
+SHA1-Digest: 8bjXNcfzloLtbHPuxHZJhgHe7G8=
+
+Name: patch/system/framework/javax.obex.odex.p
+SHA1-Digest: RW78zDQbEOq0qh31OlLX3mCKyr8=
+
+Name: patch/system/framework/CustomPropInterface.odex.p
+SHA1-Digest: vOmcoL6xZcvO9pSDir5sKdOYFNc=
+
+Name: patch/system/framework/input.jar.p
+SHA1-Digest: P8/woyqOP9NFsW23k6iA5Z2ya8U=
+
+Name: system/framework/android.policy.jar
+SHA1-Digest: 6GV5CtY141OeBkBAQrfPPimrLI0=
+
+Name: patch/system/vendor/lib/libwechatsight_v7a.so.p
+SHA1-Digest: CbbyeFULcOGEyKdAOqWuKKn8NCI=
+
+Name: patch/system/lib/hw/camera.default.so.p
+SHA1-Digest: qJ3G744EYtzsACHgJBynHnAK23g=
+
+Name: patch/system/lib/libcam.device1.so.p
+SHA1-Digest: Wk7rVSRDu4sKRhCjbou0CoGtLvw=
+
+Name: patch/system/app/LiveWallpapers.apk.p
+SHA1-Digest: Zro0gAw7fDs6Prb18ZURroALDdQ=
+
+Name: patch/system/framework/ext.odex.p
+SHA1-Digest: xj6jn57rudFGliqeBR13CdQyucY=
+
+Name: patch/system/lib/libbcc.so.p
+SHA1-Digest: QucJk6HOWYRTeY99taP4Ptcw9UY=
+
+Name: patch/system/app/HTMLViewer.apk.p
+SHA1-Digest: yIh7mekzYI6ceR0Y0Fa8eZNyyAc=
+
+Name: patch/system/priv-app/VpnDialogs.apk.p
+SHA1-Digest: hmA8PEtWcencJiHyEnfCNaiY+68=
+
+Name: patch/system/priv-app/ProxyHandler.apk.p
+SHA1-Digest: zZIWX392jWWCENNu8x3842Yun/4=
+
+Name: patch/system/app/Amigo_Note.apk.p
+SHA1-Digest: 1n1MfLqtaoCBAVJELiQl7ScVNoo=
+
+Name: patch/system/framework/bu.jar.p
+SHA1-Digest: 2tu14+Unf8HZqZoO+hbaiMPe5qQ=
+
+Name: patch/system/app/Amigo_SchAirPlane.apk.p
+SHA1-Digest: i7v6+KM3PFpAC6EbX2MVI/St7bk=
+
+Name: patch/system/framework/mediatek-op.odex.p
+SHA1-Digest: kd4Iiu8e8W9yuypWfzkShoVIB1g=
+
+Name: patch/system/framework/core-libart.odex.p
+SHA1-Digest: efi1hewmlgIM2eMVTGCC0KxEtOo=
+
+Name: patch/system/app/CertInstaller.odex.p
+SHA1-Digest: 66/vht2IS5GAJFNZiq8SfVZv4xM=
+
+Name: patch/system/app/ApplicationsProvider.apk.p
+SHA1-Digest: FjJobijsR15QvnOpKUVRrnCYKR8=
+
+Name: patch/system/app/Amigo_SettingUpdate.apk.p
+SHA1-Digest: giahQeO3ivSTt0H10ZKslkZOxM8=
+

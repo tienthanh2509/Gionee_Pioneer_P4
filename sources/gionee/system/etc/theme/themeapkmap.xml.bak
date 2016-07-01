@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Theme map is a map that decide which drawable resource should be redirect when theme is changed. -->
+<thememap>
+    <Module name="android" path="/system/framework/framework-res.apk">
+        <item>frameworks</item>     
+    </Module>
+    <Module name="com.android.systemui" path="/system/app/SystemUI.apk">
+        <item>SystemUI</item>        
+    </Module>
+    <Module name="com.coolwind.weather" path="/system/app/GN_DynamicWeather.apk">
+        <item>GN_DymanicWeather</item>        
+    </Module>
+    <Module name="com.android.phone" path="/system/app/Phone.apk">
+        <item>Phone</item>      
+    </Module>
+    <Module name="com.android.contacts" path="/system/app/Contacts.apk">
+        <item>Contacts</item>       
+    </Module>
+    <Module name="com.android.mms" path="/system/app/Mms.apk">
+        <item>Mms</item>      
+    </Module>
+    <Module name="com.android.settings" path="/system/app/Settings.apk">
+        <item>Settings</item>
+    </Module>
+    <Module name="com.android.gallery3d" path="/system/app/GN_Gallery2.apk">
+        <item>Gallery2</item>      
+    </Module>
+    <Module name="com.android.camera" path="/system/app/GN_Camera.apk">
+        <item>Camera</item>      
+    </Module>
+    <Module name="com.android.browser" path="/system/app/Browser.apk">
+        <item>Browser</item>        
+    </Module>
+    <Module name="com.android.music" path="/system/app/GN_Music.apk">
+        <item>Music</item>        
+    </Module>
+   
+    <Module name="com.gionee.filemanager" path="/system/app/GN_FileManager.apk">
+        <item>GN_FileManager</item>       
+    </Module>
+    <Module name="com.android.calendar" path="/system/app/Calendar.apk">
+        <item>Calendar</item>       
+    </Module>
+    <Module name="com.mediatek.FMRadio" path="/system/app/FMRadio.apk">
+        <item>FMRadio</item>        
+    </Module>
+    <Module name="com.android.email" path="/system/app/Email.apk">
+        <item>Email</item>        
+    </Module>
+    <Module name="gn.com.android.theme" path="/system/app/GN_Net_ThemeMgr.apk">
+        <item>GN_ThemeManager</item>       
+    </Module>
+    <Module name="com.android.deskclock" path="/system/app/DeskClock.apk">
+        <item>DeskClock</item>       
+    </Module>
+    <Module name="com.android.soundrecorder" path="/system/app/GN_SoundRecorder.apk">
+        <item>SoundRecorder</item>        
+    </Module>
+    <Module name="com.gionee.launcher" path="/system/app/GNLauncherPlus.apk">
+        <item>GNLauncherPlus</item>
+    </Module>
+    <Module name="com.android.calculator2" path="/system/app/Calculator.apk">
+        <item>Calculator</item>
+    </Module>
+     <Module name="com.gionee.change" path="/system/app/GN_Changer.apk">
+        <item>GN_Changer</item>
+    </Module>
+     <Module name="com.gionee.note" path="/system/app/GN_Note.apk">
+        <item>GN_Note</item>
+    </Module>
+     <Module name="gn.com.android.gamehall" path="/system/app/GN_GameHall.apk">
+        <item>GN_GameHall</item>
+    </Module>   
+    <Module name="jlzn.com.android.compass" path="/system/app/GN_Compass.apk">
+        <item>GN_Compass</item>
+    </Module>
+    <Module name="gn.com.android.update" path="/system/app/GN_SettingUpdate.apk">
+        <item>GN_SettingUpdate</item>
+    </Module>
+     <Module name="com.gionee.gnservice" path="/system/app/GN_Service.apk">
+        <item>GN_Service</item>
+    </Module>
+     <Module name="gn.com.android.customerserver" path="/system/app/CustomerService.apk">
+        <item>GN_GioneeCustomerService</item>
+    </Module>
+     <Module name="com.gionee.anti.stolen" path="/system/app/GN_AntiStolen.apk">
+        <item>GN_AntiStolen</item>
+    </Module>
+    <Module name="com.android.providers.downloads.ui" path="/system/app/GN_DownloadProviderUi.apk">
+        <item>DownloadProviderUi</item>
+    </Module>
+    <Module name="gn.com.voice" path="/system/app/GN_VoiceHelper.apk">
+        <item>GN_VoiceHelper</item>
+    </Module>
+    <Module name="com.android.stk" path="/system/app/Stk1.apk">
+        <item>Stk1</item>
+    </Module>
+    <Module name="com.android.stk2" path="/system/app/Stk2.apk">
+        <item>Stk2</item>
+    </Module>
+    <Module name="com.gionee.flashlight" path="/system/app/GN_FlashLight.apk">
+        <item>GN_FlashLight</item>
+    </Module>
+    <Module name="com.chaozh.iReaderFree15" path="/system/app/iReader.apk">
+        <item>iReader</item>
+    </Module>
+    <Module name="com.gionee.client" path="/system/app/GN_Gou.apk">
+        <item>GN_Client</item>
+    </Module>
+    <Module name="com.mediatek.StkSelection" path="/system/app/StkSelection.apk">
+        <item>StkSelection</item>
+    </Module>
+
+      
+</thememap>
