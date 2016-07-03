@@ -41,7 +41,7 @@ ro.mediatek.version.sdk=2
 #ro.gn.theme.prop=yes
 #ro.gn.fmsearch.support=yes
 #ro.gn.guestmode.support=yes
-ro.gn.theme.default=/system/app/YoungLife.gnz
+#ro.gn.theme.default=/system/app/YoungLife.gnz
 #ro.gn.gsd.prop=no
 ro.gn.extmodel=P4
 ro.gn.fatlabel=Gionee
@@ -72,11 +72,11 @@ ro.cta.support=no
 ro.gn.match.numberlength=9
 ro.gn.default.videocall=ringtong1.mp3
 ro.config.notification_sound=message1.mp3
-ro.config.alarm_alert=ringtong2.mp3
-ro.config.ringtone=ringtong1.mp3
-ro.gn.default.ringtone2=ringtong1.mp3
-ro.gn.default.mmstone=message1.mp3
-ro.gn.default.mmstone2=message1.mp3
+ro.config.alarm_alert=Oxygen.ogg
+ro.config.ringtone=S_Good_News.ogg
+ro.gn.default.ringtone2=S_Good_News.ogg
+ro.gn.default.mmstone=Skyline.ogg
+ro.gn.default.mmstone2=Skyline.ogg
 #ro.gn.display.single.imei=no
 #ro.gn.gprsdefaulton=no
 #ro.gn.operator.showslot=no
@@ -332,8 +332,14 @@ wifi.direct.interface=p2p0
 #Gionee yangcuntao 2014-05-23 modify for CR01256838 begin
 #dalvik.vm.heapgrowthlimit=128m
 #dalvik.vm.heapsize=256m
-dalvik.vm.heapgrowthlimit=256m
-dalvik.vm.heapsize=384m
+#dalvik.vm.heapgrowthlimit=256m
+#dalvik.vm.heapsize=384m
+dalvik.vm.heapstartsize=8m
+dalvik.vm.heapgrowthlimit=192m
+dalvik.vm.heapsize=512m
+dalvik.vm.heaptargetutilization=0.75
+dalvik.vm.heapminfree=512k
+dalvik.vm.heapmaxfree=8m
 #Gionee yangcuntao 2014-05-23 modify for CR01256838 end
 # USB MTP WHQL
 ro.sys.usb.mtp.whql.enable=0
@@ -389,8 +395,8 @@ persist.mtk.anr.mechanism=1
 mediatek.wlan.chip=CONSYS_MT6582
 mediatek.wlan.module.postfix=_consys_mt6582
 ril.radiooff.poweroffMD=0
-ro.config.notification_sound=OnTheHunt.ogg
-ro.config.alarm_alert=Alarm_Classic.ogg
+ro.config.notification_sound=S_Good_News.ogg
+ro.config.alarm_alert=Oxygen.ogg
 persist.mtk.wcn.combo.chipid=-1
 ro.fota.oem=MTK_KK
 ro.fota.platform=MTK_KK
@@ -399,8 +405,21 @@ ter.service.enable=0
 mediatek.extmd.usbport=0
 ro.lte.dc.support=0
 ril.active.md=0
-ro.setupwizard.mode=OPTIONAL
+#ro.setupwizard.mode=OPTIONAL
+ro.setupwizard.enterprise_mode=1
+ro.com.google.clientidbase=android-asus
 ro.com.google.gmsversion=4.4_r7
 persist.sys.dalvik.vm.lib=libdvm.so
 net.bt.name=Android
 dalvik.vm.stack-trace-file=/data/anr/traces.txt
+
+ro.facelock.black_timeout=400
+ro.facelock.det_timeout=1500
+ro.facelock.rec_timeout=2500
+ro.facelock.lively_timeout=2500
+ro.facelock.est_max_time=600
+ro.facelock.use_intro_anim=false
+dalvik.vm.dexopt-flags=m=y
+
+ro.sf.lcd_density=240
+

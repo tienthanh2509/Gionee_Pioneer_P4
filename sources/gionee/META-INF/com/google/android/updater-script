@@ -5,7 +5,7 @@ ui_print("--------------------------------------------");
 ui_print("-            Gionee Pioneer P4             -");
 ui_print("-                                          -");
 ui_print("-    ROM: Amigo Kitkat GN4.4.10            -");
-ui_print("-    Version: T8259_163004                 -");
+ui_print("-    Version: T8264_160703                 -");
 ui_print("--------------------------------------------");
 
 ifelse(is_mounted("/data"), unmount("/data"));
