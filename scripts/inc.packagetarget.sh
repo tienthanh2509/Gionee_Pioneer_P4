@@ -31,7 +31,7 @@ createzip() {
     rm "$unsignedzip"
   fi
 
-  cd "$build"
+  cd "$BUILD"
   echo "Packaging and signing $signedzip..."
   zip -q -r -D -X -$ZIPCOMPRESSIONLEVEL "$unsignedzip" ./* #don't doublequote zipfolders, contains multiple (safe) arguments
   cd "$TOP"
@@ -57,7 +57,7 @@ signzip() {
     echo "INFO: using $KEYFILE as cryptographic key file"
   fi
 
-  if java -Xmx3072m -jar "$SCRIPTS/inc.signapk.jar" -w "$CERTIFICATEFILE" "$KEYFILE" "$unsignedzip" "$signedzip"; then #if signing did succeed
+  if java -Xmx2048m -jar "$SCRIPTS/inc.signapk.jar" -w "$CERTIFICATEFILE" "$KEYFILE" "$unsignedzip" "$signedzip"; then #if signing did succeed
     rm "$unsignedzip"
   else
     echo "ERROR: Creating Flashable ZIP-file failed, unsigned file can be found at $unsignedzip"
